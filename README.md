@@ -4,7 +4,7 @@ The goal of this project is to make a nice and easy way for discords to share th
 invite.
 
 #Finished    
-google sheet is up and running with a way to add to the sheet though a google form  
+google sheet is up and running with a way to add to the sheet though a google form -( https://docs.google.com/spreadsheets/d/1xi6GMFw2ZGksBhzMlX-ZzuqJp-tqAF4Qp4kZ2PCqVZg/edit?usp=drivesdk )  
 
 #TODO  
 Create the Discord bot in the Discord devloper portal and set up the permisons it will need.  
